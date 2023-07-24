@@ -2,4 +2,4 @@ Hello Everyone of course this is my first real Odin project, I have been hitting
 
 I will be using all of thew HTML skills I have been practicing up until now to build my first project. 
 
-By the end i will have my first website I believe! 
+By the end I will have my first website I believe! 
